@@ -24,7 +24,7 @@ body {
   overflow-x: hidden;
   width: 100%;
   height: 100%;
-  padding-top: 6em !important;
+  padding-top: 5em !important;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #000;
   font-family: "Montserrat", Arial, sans-serif;
   font-weight: 400;
-  margin: 0 0 20px 0;
+  margin: 0 0 0px 0;
 }
 
 ::-webkit-selection {
@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav a {
   padding: 5px 0;
-  color: #000;
+  color: #740474;
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1, .fh5co-nav .menu-2 {
@@ -255,7 +255,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav ul li.has-dropdown .dropdown li a {
   padding: 2px 0;
   display: block;
-  color: #999999;
+  color: #880e88;
   line-height: 1.2;
   text-transform: none;
   letter-spacing: 0px;
@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #000;
 }
 .fh5co-nav ul li.active > a {
-  color: #cabcab !important;
+  color: #880e88 !important;
 }
 .fh5co-nav ul li .form-group {
   border: 1px solid red;
@@ -512,11 +512,11 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 1;
 }
 .work:hover .desc h3 a, .work:focus .desc h3 a {
-  color: #cabcab;
+  color: #880e88;
 }
 
 .top-line {
-  padding-bottom: 7em;
+  padding-bottom: 2em;
 }
 .top-line .fh5co-heading {
   margin-bottom: 0 !important;
@@ -612,7 +612,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-repeat: no-repeat;
   position: relative;
   width: 40%;
-  height: 350px;
+  height: 366px;
   float: left;
 }
 @media screen and (max-width: 480px) {
@@ -624,7 +624,8 @@ h1, h2, h3, h4, h5, h6, figure {
 .author .desc {
   width: 60%;
   float: left;
-  padding-left: 50px;
+  padding-left: 45px;
+  padding-top: 80px;
 }
 @media screen and (max-width: 480px) {
   .author .desc {
@@ -640,7 +641,7 @@ h1, h2, h3, h4, h5, h6, figure {
   letter-spacing: 1px;
 }
 .author .desc .fh5co-social-icons li a {
-  color: #cabcab;
+  color: #880e88;
   padding-left: 0;
   padding-right: 10px;
 }
@@ -662,27 +663,27 @@ h1, h2, h3, h4, h5, h6, figure {
   -moz-border-radius: 50px;
   -ms-border-radius: 50px;
   border-radius: 50px;
-  background: #cabcab !important;
+  background: #880e88!important;
 }
 
 #fh5co-started {
-  background: #cabcab;
+  background: #880e88;
 }
 #fh5co-started .fh5co-heading {
   margin-bottom: 20px !important;
 }
 #fh5co-started .fh5co-heading h2 {
   color: #fff;
-  color: #685641;
+  color: #880e88;
   margin-bottom: 20px !important;
 }
 #fh5co-started .fh5co-heading p {
-  color: #685641;
+  color: #880e88;
 }
 #fh5co-started .btn {
   margin-top: 20px;
-  border: 3px solid #8c7961;
-  color: #8c7961;
+  border: 3px solid #880e88;
+  color: #880e88;
   font-size: 20px;
   font-weight: 400;
   padding: 20px 0;
@@ -708,7 +709,7 @@ h1, h2, h3, h4, h5, h6, figure {
   list-style: none;
 }
 #fh5co-footer .fh5co-footer-links li a {
-  color: #000;
+  color: #880e88;
   text-decoration: none;
 }
 #fh5co-footer .fh5co-footer-links li a:hover {
@@ -737,7 +738,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   z-index: 1901;
   width: 270px;
-  background: black;
+  background: #880e88;
   top: 0;
   right: 0;
   top: 0;
@@ -847,7 +848,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 10px 6px;
   line-height: 0;
   font-size: 11px;
-  background: #cabcab;
+  background: #880e88;
   color: white;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1065,21 +1066,21 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #cabcab;
+  background: #880e88;
   color: #fff;
-  border: 2px solid #cabcab;
+  border: 2px solid #880e88;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #d4c8bb !important;
-  border-color: #d4c8bb !important;
+  background: #880e88 !important;
+  border-color: #880e88 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #cabcab;
-  border: 2px solid #cabcab;
+  color: #880e88;
+  border: 2px solid #880e88;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #cabcab;
+  background: #880e88;
   color: #fff;
 }
 
@@ -1261,7 +1262,7 @@ blockquote p {
 blockquote .person {
   font-family: "Montserrat", Arial, sans-serif;
   font-size: 14px;
-  color: #b3b3b3;
+  color: #880e88;
 }
 blockquote .person cite {
   font-style: normal;
