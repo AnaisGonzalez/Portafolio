@@ -13,7 +13,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.2;
   color: #828282;
   background: #fff;
@@ -54,7 +54,7 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #cabcab;
+  color: #880e88;
   outline: none;
   text-decoration: none;
 }
@@ -330,7 +330,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #cabcab;
+  color: #880e88;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -416,7 +416,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .feature-center .icon {
   width: 90px;
   height: 90px;
-  background: #cabcab;
+  background: #880e88;
   display: table;
   text-align: center;
   margin-bottom: 30px;
@@ -1310,6 +1310,12 @@ blockquote .person cite {
   list-style: none;
   padding: 0;
   margin: 0 0 5px 0;
+}
+.text {
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 /*# sourceMappingURL=style.css.map */
