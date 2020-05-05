@@ -1389,7 +1389,7 @@ pre code {
   }
 
   .col-md-11 {
-    width: 91.66667%;
+    width: 115%;
   }
 
   .col-md-12 {
@@ -5467,6 +5467,7 @@ button.close {
   .modal-lg {
     width: 900px;
   }
+
 }
 .tooltip {
   position: absolute;
