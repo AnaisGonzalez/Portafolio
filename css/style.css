@@ -214,7 +214,7 @@ color: #000;
   transition: 0.5s;
 }
 .fh5co-nav ul li a:hover, .fh5co-nav ul li a:focus, .fh5co-nav ul li a:active {
-  color: black;
+  color: #880e88;
 }
 .fh5co-nav ul li.has-dropdown {
   position: relative;
@@ -546,7 +546,7 @@ color: #000;
   margin-bottom: 10px;
 }
 .categories li a:hover {
-  color: #000;
+  color: #880e88;
 }
 
 .intro h2 {
